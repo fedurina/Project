@@ -20,7 +20,7 @@
 ## Технологии базы данных
 
 Для хранения данных была выбрана **PostgreSQL**, обеспечивающая надежность и масштабируемость базы данных приложения.
-![Uploading BDgit.png…]()
+[![Uploading BDgit.png…]()](https://github.com/fedurina/Project/blob/main/BDgit.png)
 
 
     
