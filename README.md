@@ -21,15 +21,19 @@
 
 Для хранения данных была выбрана **PostgreSQL**, обеспечивающая надежность и масштабируемость базы данных приложения.
 
-                          ![База данных](https://github.com/fedurina/Project/blob/main/BDgit.png)
+![База данных](https://github.com/fedurina/Project/blob/main/BDgit.png)
 
 ## Приложение
 
-![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_1_2024-11-30_02-54-31.png) ![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_2_2024-11-30_02-54-31.png)
+![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_1_2024-11-30_02-54-31.png) 
 
-![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_3_2024-11-30_02-54-31.png) ![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_4_2024-11-30_02-54-31.png)
+![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_2_2024-11-30_02-54-31.png)
 
-                          ![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_5_2024-11-30_02-54-31.png)
+![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_3_2024-11-30_02-54-31.png) 
+
+![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_4_2024-11-30_02-54-31.png)
+
+![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_5_2024-11-30_02-54-31.png)
 
 
     
