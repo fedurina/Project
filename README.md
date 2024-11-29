@@ -35,6 +35,7 @@
 
 ![Интерфэйс](https://github.com/fedurina/Project/blob/main/photo_5_2024-11-30_02-54-31.png)
 
+![Диаграмма](https://github.com/fedurina/Project/blob/main/2024-11-30_03-20-15.png)
 
     
 
