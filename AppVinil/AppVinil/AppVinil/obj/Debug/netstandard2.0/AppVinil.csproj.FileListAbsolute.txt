@@ -1,0 +1,40 @@
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.deps.json
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.dll
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.pdb
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.csproj.AssemblyReference.cache
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.AssemblyInfoInputs.cache
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.AssemblyInfo.cs
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.csproj.CoreCompileInputs.cache
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.dll
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\refint\AppVinil.dll
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.pdb
+D:\Kursovaya\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\ref\AppVinil.dll
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.deps.json
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.dll
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\bin\Debug\netstandard2.0\AppVinil.pdb
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.csproj.AssemblyReference.cache
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.AssemblyInfoInputs.cache
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.AssemblyInfo.cs
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.csproj.CoreCompileInputs.cache
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.dll
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\refint\AppVinil.dll
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\AppVinil.pdb
+D:\Kursovaya — копия\AppVinil\AppVinil\AppVinil\obj\Debug\netstandard2.0\ref\AppVinil.dll
